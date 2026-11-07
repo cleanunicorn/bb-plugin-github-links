@@ -15,7 +15,7 @@ Settings → Appearance → Sidebar.
 ## Install
 
 ```sh
-bb plugin install git:<owner>/bb-plugin-github-links
+bb plugin install git:https://github.com/cleanunicorn/bb-plugin-github-links
 ```
 
 ## Develop
